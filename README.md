@@ -18,7 +18,9 @@ To **Setup Output and Input Paths**, under Demo.java set
 
 to the correct directory.
 
-
+Supplimentary Material
+-----------------------------------------------------
+* Explanatory YouTube Video - [PaintFilter](https://www.youtube.com/watch?v=5o978yX_B_0)
 
 Sample Outputs
 -----------------------------------------------------
@@ -37,9 +39,6 @@ Sample Outputs
 | ![sfu.jpg](test_inputs/sfu.jpg)             |![sfu_R4T4.jpg](sample_outputs/sfu_R4T4.jpg)             |
 
 
-Supplimentary Material
------------------------------------------------------
-* Explanatory YouTube Video - [PaintFilter](https://www.youtube.com/watch?v=5o978yX_B_0)
 
 ## Authors
 
