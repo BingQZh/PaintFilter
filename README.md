@@ -36,6 +36,11 @@ Sample Outputs
 | ![samoyed.jpg](test_inputs/samoyed.jpg)     |![samoyed_R3T10.jpg](sample_outputs/samoyed_R3T10.jpg)   |
 | ![sfu.jpg](test_inputs/sfu.jpg)             |![sfu_R4T4.jpg](sample_outputs/sfu_R4T4.jpg)             |
 
+
+Supplimentary Material
+-----------------------------------------------------
+* Explanatory YouTube Video - [PaintFilter](https://www.youtube.com/watch?v=5o978yX_B_0)
+
 ## Authors
 
 * Jason Lin - [Jason](tba)
