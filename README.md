@@ -13,3 +13,9 @@ To **Setup Output and Input Paths**, under Demo.java set
     out_path="...";
 
 to the correct directory.
+
+
+Sample Outputs
+-----------------------------------------------------
+| Original Image                              | Output                                      |   
+| ------------------------------------------- | ------------------------------------------- | 
