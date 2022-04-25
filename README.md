@@ -48,4 +48,4 @@ Sample Outputs
 ## Acknowledgements
 
 - [Prof. Aksoy](http://yaksoy.github.io/)
-- TA Chris Careaga, Sebastian Dille
+- TAs： Chris Careaga, Sebastian Dille
