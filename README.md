@@ -30,3 +30,13 @@ Sample Outputs
 | ![paris.jpg](test_inputs/paris.jpg)         |![paris_R3T10.jpg](sample_outputs/paris_R3T10.jpg)       |
 | ![samoyed.jpg](test_inputs/samoyed.jpg)     |![samoyed_R3T10.jpg](sample_outputs/samoyed_R3T10.jpg)   |
 | ![sfu.jpg](test_inputs/sfu.jpg)             |![sfu_R4T4.jpg](sample_outputs/sfu_R4T4.jpg)             |
+
+## Authors
+
+* Jason Lin - [Jason](tba)
+* Bing Zhang - [BingQZh](https://github.com/BingQZh)
+
+## Acknowledgements
+
+- **[Prof. Aksoy](http://yaksoy.github.io/)
+- ** TA Chris Careaga, Sebastian Dille
