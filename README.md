@@ -43,7 +43,7 @@ Supplimentary Material
 
 ## Authors
 
-* Jason Lin - [Jason](tba)
+* Jason Lin - [JasonLinnnn](https://github.com/JasonLinnnn)
 * Bing Zhang - [BingQZh](https://github.com/BingQZh)
 
 ## Acknowledgements
