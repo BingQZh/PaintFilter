@@ -48,5 +48,5 @@ Supplimentary Material
 
 ## Acknowledgements
 
-- **[Prof. Aksoy](http://yaksoy.github.io/)
-- ** TA Chris Careaga, Sebastian Dille
+- [Prof. Aksoy](http://yaksoy.github.io/)
+- TA Chris Careaga, Sebastian Dille
