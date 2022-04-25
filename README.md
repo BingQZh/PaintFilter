@@ -2,6 +2,9 @@
 
 > This project implements an image filter to transfer images into painting style.
 
+For this paint filter, four types of styles are used: Chiaroscuro style, Gouache style, Landscape style, and Pastel style. 
+For each paint style, two parameters are manually tuned: the radius that controls paint brush size, and the colour tank size that controls the level of colours preserved. 
+
 
 Set Up
 -----------------------------------------------------
@@ -14,6 +17,7 @@ To **Setup Output and Input Paths**, under Demo.java set
     out_path="...";
 
 to the correct directory.
+
 
 
 Sample Outputs
