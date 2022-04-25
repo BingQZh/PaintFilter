@@ -17,5 +17,6 @@ to the correct directory.
 
 Sample Outputs
 -----------------------------------------------------
-| Original Image                              | Output                                      |   
-| ------------------------------------------- | ------------------------------------------- | 
+| Original Image                              | Output                                                  |   
+| ------------------------------------------- | ------------------------------------------------------- | 
+| ![balloons.jpg](test_inputs/balloons.jpg)   |![balloons_R6T15.jpg](sample_outputs/balloons_R6T15.jpg) |
