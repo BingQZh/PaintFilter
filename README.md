@@ -9,8 +9,6 @@ Set Up
 Clone and compile the code. You will require java 18 to run the program.
 To **Setup Output and Input Paths**, under Demo.java set 
 
-::
-
     input_path ="..."
     out_path="...";
 
