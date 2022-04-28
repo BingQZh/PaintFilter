@@ -18,10 +18,6 @@ To **Setup Output and Input Paths**, under Demo.java set
 
 to the correct directory.
 
-Supplimentary Material
------------------------------------------------------
-* Explanatory YouTube Video - [PaintFilter](https://www.youtube.com/watch?v=5o978yX_B_0)
-
 Sample Outputs
 -----------------------------------------------------
 | Original Image                              | Output                                                  |   
